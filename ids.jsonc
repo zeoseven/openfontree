@@ -818,9 +818,9 @@
     },
     {
         "id": 26,
-        "name": "Oradano明朝GSRRフォント",
+        "name": "Oradano 明朝 GSRR",
         "alias": [
-            "Oradano Mincho"
+            "Oradano Mincho GSRR"
         ]
     },
     {
@@ -1652,7 +1652,7 @@
     },
     {
         "id": 417,
-        "name": "TRW UD明朝",
+        "name": "TRWUD 明朝",
         "alias": [
             "TRWUD Mincho"
         ]
@@ -4187,6 +4187,36 @@
     {
         "id": 91,
         "name": "清松手写体6 p",
+        "alias": []
+    },
+    {
+        "id": 910,
+        "name": "Cupertino ReCondensed",
+        "alias": []
+    },
+    {
+        "id": 911,
+        "name": "Lunasima",
+        "alias": []
+    },
+    {
+        "id": 912,
+        "name": "Google Sans",
+        "alias": []
+    },
+    {
+        "id": 913,
+        "name": "DeAetna",
+        "alias": []
+    },
+    {
+        "id": 914,
+        "name": "遍玨体",
+        "alias": []
+    },
+    {
+        "id": 915,
+        "name": "汇文筑地五号明朝体",
         "alias": []
     },
     {
