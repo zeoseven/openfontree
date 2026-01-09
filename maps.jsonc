@@ -196,5 +196,8 @@
     ["gf", 809],
 
     // Noto Traditional Nushu→Monu Titl
-    ["gf", 635]
+    ["gf", 635],
+
+    // 森泽 UD 明朝 (940) -> TRW UD 明朝 (417)
+    [940, 417, "补充简体中文"]
 ]
