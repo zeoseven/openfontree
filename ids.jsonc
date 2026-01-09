@@ -33,9 +33,10 @@
     },
     {
         "id": 101,
-        "name": "Cubic 11 俐方體11號",
+        "name": "俐方体 11 号",
         "alias": [
-            "俐方体11号"
+            "Cubic 11",
+            "俐方體 11 號"
         ]
     },
     {
@@ -50,8 +51,11 @@
     },
     {
         "id": 104,
-        "name": "清松手写体5",
-        "alias": []
+        "name": "清松手写体 5",
+        "alias": [
+            "清松手寫體 5",
+            "JasonHandwriting 5"
+        ]
     },
     {
         "id": 105,
@@ -464,8 +468,11 @@
     },
     {
         "id": 182,
-        "name": "清松手写体4",
-        "alias": []
+        "name": "清松手写体 4",
+        "alias": [
+            "清松手寫體 4",
+            "JasonHandwriting 4"
+        ]
     },
     {
         "id": 183,
@@ -772,18 +779,27 @@
     },
     {
         "id": 251,
-        "name": "清松手写体3",
-        "alias": []
+        "name": "清松手写体 3",
+        "alias": [
+            "清松手寫體 3",
+            "JasonHandwriting 3"
+        ]
     },
     {
         "id": 252,
-        "name": "清松手写体2",
-        "alias": []
+        "name": "清松手写体 2",
+        "alias": [
+            "清松手寫體 2",
+            "JasonHandwriting 2"
+        ]
     },
     {
         "id": 253,
-        "name": "清松手写体1",
-        "alias": []
+        "name": "清松手写体 1",
+        "alias": [
+            "清松手寫體 1",
+            "JasonHandwriting 1"
+        ]
     },
     {
         "id": 254,
@@ -2201,7 +2217,11 @@
     {
         "id": 522,
         "name": "ZhiyiSerif 致一宋体",
-        "alias": []
+        "alias": [
+            "致一宋體",
+            "致一明朝",
+            "치일명조"
+        ]
     },
     {
         "id": 524,
@@ -3873,9 +3893,9 @@
     },
     {
         "id": 864,
-        "name": "USMCC 古隶体 (先行预览)",
+        "name": "USMCC 洄波隶书 (先行预览)",
         "alias": [
-            "USMCC Guli"
+            "USMCC Huibolishu"
         ]
     },
     {
@@ -4119,8 +4139,11 @@
     },
     {
         "id": 90,
-        "name": "清松手写体6",
-        "alias": []
+        "name": "清松手写体 6",
+        "alias": [
+            "清松手寫體 6",
+            "JasonHandwriting 6"
+        ]
     },
     {
         "id": 900,
@@ -4192,11 +4215,6 @@
     {
         "id": 909,
         "name": "Jost*",
-        "alias": []
-    },
-    {
-        "id": 91,
-        "name": "清松手写体6 p",
         "alias": []
     },
     {
@@ -4385,6 +4403,30 @@
         "name": "森泽 BIZ UDP 明朝",
         "alias": [
             "Morisawa BIZ UDPMincho"
+        ]
+    },
+    {
+        "id": 942,
+        "name": "清松手写体 7",
+        "alias": [
+            "清松手寫體 7",
+            "JasonHandwriting 7"
+        ]
+    },
+    {
+        "id": 943,
+        "name": "清松手写体 8",
+        "alias": [
+            "清松手寫體 8",
+            "JasonHandwriting 8"
+        ]
+    },
+    {
+        "id": 944,
+        "name": "清松手写体 9",
+        "alias": [
+            "清松手寫體 9",
+            "JasonHandwriting 9"
         ]
     },
     {
