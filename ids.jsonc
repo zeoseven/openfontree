@@ -3216,7 +3216,7 @@
     },
     {
         "id": 72,
-        "name": "志莽行书",
+        "name": "ZhiMangXing",
         "alias": []
     },
     {
@@ -4598,6 +4598,13 @@
         "id": 97,
         "name": "明达明达无锋体",
         "alias": []
+    },
+    {
+        "id": 970,
+        "name": "玄宗体",
+        "alias": [
+            "XuanZongTi"
+        ]
     },
     {
         "id": 98,
