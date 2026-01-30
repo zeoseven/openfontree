@@ -3216,8 +3216,10 @@
     },
     {
         "id": 72,
-        "name": "ZhiMangXing",
-        "alias": []
+        "name": "志莽行书",
+        "alias": [
+            "ZhiMangXing"
+        ]
     },
     {
         "id": 720,
@@ -4604,6 +4606,20 @@
         "name": "玄宗体",
         "alias": [
             "XuanZongTi"
+        ]
+    },
+    {
+        "id": 971,
+        "name": "长城共享体",
+        "alias": [
+            "GWM Sans"
+        ]
+    },
+    {
+        "id": 972,
+        "name": "长城共享体 Latin",
+        "alias": [
+            "GWM Sans Latin"
         ]
     },
     {
