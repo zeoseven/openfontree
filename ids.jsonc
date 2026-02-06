@@ -440,8 +440,10 @@
     },
     {
         "id": 177,
-        "name": "cjkFonts 手寫4 (手写4)",
-        "alias": []
+        "name": "cjkFonts 手写 4",
+        "alias": [
+            "cjkFonts 手寫 4"
+        ]
     },
     {
         "id": 178,
@@ -1427,7 +1429,7 @@
     },
     {
         "id": 372,
-        "name": "文泉驿等宽微米黑 Mono",
+        "name": "文泉驿等宽微米黑",
         "alias": [
             "WenQuanYi Micro Hei Mono"
         ]
@@ -1476,8 +1478,10 @@
     },
     {
         "id": 380,
-        "name": "やさしさゴシック (温柔黑体)",
-        "alias": []
+        "name": "温柔黑体",
+        "alias": [
+            "やさしさゴシック"
+        ]
     },
     {
         "id": 381,
@@ -2240,8 +2244,9 @@
     },
     {
         "id": 524,
-        "name": "Y式宋體 (Y式宋体)",
+        "name": "Y 式宋体",
         "alias": [
+            "Y 式宋體",
             "YShiMincho"
         ]
     },
@@ -2360,7 +2365,7 @@
     },
     {
         "id": 556,
-        "name": "隨峰體Plus (隨峰体Plus)",
+        "name": "隨峰體 Plus (隨峰体 Plus)",
         "alias": []
     },
     {
@@ -4621,6 +4626,44 @@
         "alias": [
             "GWM Sans Latin"
         ]
+    },
+    {
+        "id": 973,
+        "name": "长城共享体 Hebrew",
+        "alias": [
+            "GWM Sans Hebrew"
+        ]
+    },
+    {
+        "id": 974,
+        "name": "长城共享体 Arabic",
+        "alias": [
+            "GWM Sans Arabic"
+        ]
+    },
+    {
+        "id": 975,
+        "name": "长城共享体 Thai",
+        "alias": [
+            "GWM Sans Thai"
+        ]
+    },
+    {
+        "id": 976,
+        "name": "牟礼町",
+        "alias": [
+            "Murecho"
+        ]
+    },
+    {
+        "id": 977,
+        "name": "Podkova",
+        "alias": []
+    },
+    {
+        "id": 978,
+        "name": "香萃端庄宋体",
+        "alias": []
     },
     {
         "id": 98,
