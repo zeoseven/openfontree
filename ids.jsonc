@@ -115,7 +115,7 @@
     },
     {
         "id": 113,
-        "name": "廻募",
+        "name": "廻募（エモ）",
         "alias": []
     },
     {
@@ -183,7 +183,7 @@
     },
     {
         "id": 124,
-        "name": "MotoyaLCedar 小杉黑体",
+        "name": "Kosugi 小杉黑体",
         "alias": []
     },
     {
@@ -198,9 +198,10 @@
     },
     {
         "id": 127,
-        "name": "零ゴシック",
+        "name": "破碎零号字",
         "alias": [
-            "破碎零号字"
+            "零ゴシック",
+            "Zero Gothic"
         ]
     },
     {
@@ -395,12 +396,7 @@
     },
     {
         "id": 163,
-        "name": "GenEi LateMin (源暎漫画体) N",
-        "alias": []
-    },
-    {
-        "id": 164,
-        "name": "GenEi LateMin (源暎漫画体) P",
+        "name": "GenEi LateMin (源暎漫画体)",
         "alias": []
     },
     {
@@ -416,17 +412,9 @@
     {
         "id": 17,
         "name": "Hurss DOSMyungjo",
-        "alias": []
-    },
-    {
-        "id": 173,
-        "name": "Sisters FB",
-        "alias": []
-    },
-    {
-        "id": 174,
-        "name": "Sisters FL",
-        "alias": []
+        "alias": [
+            "도스명조"
+        ]
     },
     {
         "id": 175,
@@ -498,7 +486,7 @@
     },
     {
         "id": 185,
-        "name": "霞鹜975黑体",
+        "name": "霞鹜 975 黑体",
         "alias": [
             "LXGW 975 Gothic"
         ]
@@ -529,7 +517,7 @@
     },
     {
         "id": 193,
-        "name": "YOzFont毛笔楷书",
+        "name": "YOzFont 毛笔楷书",
         "alias": []
     },
     {
@@ -540,16 +528,6 @@
     {
         "id": 195,
         "name": "SanariFont 细鸣字体",
-        "alias": []
-    },
-    {
-        "id": 196,
-        "name": "SanariFont 细鸣字体 H",
-        "alias": []
-    },
-    {
-        "id": 197,
-        "name": "SanariFont 细鸣字体 B",
         "alias": []
     },
     {
@@ -582,6 +560,23 @@
         "alias": []
     },
     {
+        "id": 2000,
+        "name": "League Gothic",
+        "alias": []
+    },
+    {
+        "id": 2001,
+        "name": "正格点黑 16",
+        "alias": [
+            "ZhengGeDianHei 16"
+        ]
+    },
+    {
+        "id": 2002,
+        "name": "Fira Math",
+        "alias": []
+    },
+    {
         "id": 201,
         "name": "萌神明朝体",
         "alias": [
@@ -594,6 +589,11 @@
         "alias": [
             "Xiangcui Kesong"
         ]
+    },
+    {
+        "id": 2100,
+        "name": "Saira Stencil",
+        "alias": []
     },
     {
         "id": 214,
@@ -634,8 +634,11 @@
     },
     {
         "id": 220,
-        "name": "073 TEGUSE (鹿仲茉菜的手书)",
-        "alias": []
+        "name": "鹿仲茉菜的手书",
+        "alias": [
+            "073 TEGUSE",
+            "鹿仲茉菜の手書"
+        ]
     },
     {
         "id": 221,
@@ -758,12 +761,7 @@
     },
     {
         "id": 246,
-        "name": "源暎漫画体 GenEi Late Go N",
-        "alias": []
-    },
-    {
-        "id": 247,
-        "name": "源暎漫画体 GenEi Late Go P",
+        "name": "GenEi LateGo (源暎漫画体)",
         "alias": []
     },
     {
@@ -1481,9 +1479,9 @@
     },
     {
         "id": 380,
-        "name": "温柔黑体",
+        "name": "温柔黑体 书写",
         "alias": [
-            "やさしさゴシック"
+            "やさしさゴシック手書き"
         ]
     },
     {
@@ -1758,8 +1756,11 @@
     },
     {
         "id": 43,
-        "name": "Sisters FS",
-        "alias": []
+        "name": "妹フォント",
+        "alias": [
+            "Sisters FS",
+            "姐妹字体"
+        ]
     },
     {
         "id": 437,
@@ -1882,7 +1883,7 @@
     },
     {
         "id": 457,
-        "name": "KBIZmjo (KBIZ明朝)",
+        "name": "KBIZmjo (KBIZ 明朝)",
         "alias": []
     },
     {
@@ -2176,7 +2177,9 @@
     {
         "id": 51,
         "name": "濑户字体",
-        "alias": []
+        "alias": [
+            "SetoFont"
+        ]
     },
     {
         "id": 510,
@@ -2292,8 +2295,10 @@
     },
     {
         "id": 54,
-        "name": "07LogoTypeGothic7",
-        "alias": []
+        "name": "07 Logo Type Gothic 7",
+        "alias": [
+            "ロゴたいぷゴシック"
+        ]
     },
     {
         "id": 543,
@@ -2368,13 +2373,17 @@
     },
     {
         "id": 556,
-        "name": "隨峰體 Plus (隨峰体 Plus)",
-        "alias": []
+        "name": "随峰体 Plus",
+        "alias": [
+            "隨峰體 Plus"
+        ]
     },
     {
         "id": 557,
-        "name": "隨峰體 (隨峰体)",
-        "alias": []
+        "name": "随峰体",
+        "alias": [
+            "隨峰體"
+        ]
     },
     {
         "id": 56,
@@ -2814,7 +2823,10 @@
     {
         "id": 64,
         "name": "美绩点阵体",
-        "alias": []
+        "alias": [
+            "美績點陣體",
+            "MisekiBitmap"
+        ]
     },
     {
         "id": 640,
@@ -3188,7 +3200,10 @@
     {
         "id": 71,
         "name": "美绩点阵体 - 宋",
-        "alias": []
+        "alias": [
+            "美績點陣體 - 明",
+            "MisekiBitmap Mincho"
+        ]
     },
     {
         "id": 710,
@@ -3260,11 +3275,6 @@
         "alias": []
     },
     {
-        "id": 74,
-        "name": "I.MingVar 一点明体异体",
-        "alias": []
-    },
-    {
         "id": 741,
         "name": "LINE Seed TW",
         "alias": []
@@ -3290,21 +3300,6 @@
         "alias": [
             "饅頭黑體"
         ]
-    },
-    {
-        "id": 75,
-        "name": "I.MingCP 一点明体 CP",
-        "alias": []
-    },
-    {
-        "id": 76,
-        "name": "I.MingVarCP 一点明体异体 CP",
-        "alias": []
-    },
-    {
-        "id": 77,
-        "name": "PMingI.U 新一细明体",
-        "alias": []
     },
     {
         "id": 774,
@@ -3345,11 +3340,6 @@
         "alias": [
             "BabelStone Erjian"
         ]
-    },
-    {
-        "id": 78,
-        "name": "PMingI.UVar 新一细明体异体",
-        "alias": []
     },
     {
         "id": 780,
@@ -3728,13 +3718,6 @@
         ]
     },
     {
-        "id": 833,
-        "name": "教育部隶书",
-        "alias": [
-            "教育部隸書"
-        ]
-    },
-    {
         "id": 834,
         "name": "ZhiyiSans 致一黑体",
         "alias": []
@@ -3827,7 +3810,9 @@
     {
         "id": 85,
         "name": "Tekitou Poem",
-        "alias": []
+        "alias": [
+            "適当ポエム"
+        ]
     },
     {
         "id": 850,
@@ -4617,41 +4602,6 @@
         ]
     },
     {
-        "id": 971,
-        "name": "长城共享体",
-        "alias": [
-            "GWM Sans"
-        ]
-    },
-    {
-        "id": 972,
-        "name": "长城共享体 Latin",
-        "alias": [
-            "GWM Sans Latin"
-        ]
-    },
-    {
-        "id": 973,
-        "name": "长城共享体 Hebrew",
-        "alias": [
-            "GWM Sans Hebrew"
-        ]
-    },
-    {
-        "id": 974,
-        "name": "长城共享体 Arabic",
-        "alias": [
-            "GWM Sans Arabic"
-        ]
-    },
-    {
-        "id": 975,
-        "name": "长城共享体 Thai",
-        "alias": [
-            "GWM Sans Thai"
-        ]
-    },
-    {
         "id": 976,
         "name": "牟礼町",
         "alias": [
@@ -4709,8 +4659,87 @@
         "alias": []
     },
     {
+        "id": 987,
+        "name": "Comfortaa",
+        "alias": []
+    },
+    {
+        "id": 988,
+        "name": "权暂篆书",
+        "alias": [
+            "Temp Seal Script"
+        ]
+    },
+    {
+        "id": 989,
+        "name": "资源圆体",
+        "alias": [
+            "Resource Han Rounded"
+        ]
+    },
+    {
         "id": 99,
         "name": "はなぞめフォント 花中字体",
+        "alias": []
+    },
+    {
+        "id": 990,
+        "name": "空源黑体",
+        "alias": [
+            "Kongyuan Sans"
+        ]
+    },
+    {
+        "id": 991,
+        "name": "Sitea",
+        "alias": []
+    },
+    {
+        "id": 992,
+        "name": "UwU 点矩黑 (先行预览)",
+        "alias": [
+            "UwU Matrix"
+        ]
+    },
+    {
+        "id": 993,
+        "name": "LXGW Bright",
+        "alias": []
+    },
+    {
+        "id": 994,
+        "name": "LXGW Bright Code",
+        "alias": []
+    },
+    {
+        "id": 995,
+        "name": "Z 工坊像素圆体 12px",
+        "alias": [
+            "Z Labs RoundPix 12px"
+        ]
+    },
+    {
+        "id": 996,
+        "name": "x12y12pxMaruMinya",
+        "alias": [
+            "マルミーニャ"
+        ]
+    },
+    {
+        "id": 997,
+        "name": "Z 工坊金刚黑体 16px",
+        "alias": [
+            "Z Labs DiamondPix 16px"
+        ]
+    },
+    {
+        "id": 998,
+        "name": "Raleway",
+        "alias": []
+    },
+    {
+        "id": 999,
+        "name": "Encode Sans",
         "alias": []
     },
     {
