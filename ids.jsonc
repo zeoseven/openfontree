@@ -596,6 +596,93 @@
         "alias": []
     },
     {
+        "id": 2101,
+        "name": "朝華標題 (朝华标题)",
+        "alias": [
+            "標題明朝體",
+            "标题明朝体"
+        ]
+    },
+    {
+        "id": 2102,
+        "name": "油茶饊子體 (油茶馓子体)",
+        "alias": []
+    },
+    {
+        "id": 2103,
+        "name": "朝華打字機 (朝华打字机)",
+        "alias": []
+    },
+    {
+        "id": 2104,
+        "name": "迫真打字油印體 (迫真打字油印体)",
+        "alias": []
+    },
+    {
+        "id": 2105,
+        "name": "Gentium",
+        "alias": []
+    },
+    {
+        "id": 2106,
+        "name": "M PLUS 1",
+        "alias": []
+    },
+    {
+        "id": 2107,
+        "name": "M PLUS 1 Code",
+        "alias": []
+    },
+    {
+        "id": 2108,
+        "name": "M PLUS Code Latin",
+        "alias": []
+    },
+    {
+        "id": 2109,
+        "name": "Open Baskerville",
+        "alias": []
+    },
+    {
+        "id": 2110,
+        "name": "宙黑体",
+        "alias": [
+            "Zev Hei TC",
+            "宙黑體"
+        ]
+    },
+    {
+        "id": 2111,
+        "name": "Geist Pixel",
+        "alias": []
+    },
+    {
+        "id": 2112,
+        "name": "台北黑体",
+        "alias": [
+            "Taipei Sans TC",
+            "台北黑體"
+        ]
+    },
+    {
+        "id": 2113,
+        "name": "Shantell Sans",
+        "alias": []
+    },
+    {
+        "id": 2114,
+        "name": "Recursive",
+        "alias": []
+    },
+    {
+        "id": 2115,
+        "name": "源流明朝",
+        "alias": [
+            "源流明體",
+            "GenRyu Serif"
+        ]
+    },
+    {
         "id": 214,
         "name": "更纱黑体 UI",
         "alias": [
@@ -2231,7 +2318,7 @@
     },
     {
         "id": 520,
-        "name": "破線G",
+        "name": "破線 G (破线 G)",
         "alias": []
     },
     {
@@ -2886,7 +2973,7 @@
     },
     {
         "id": 65,
-        "name": "精品点阵体9x9",
+        "name": "精品点阵体 9x9",
         "alias": [
             "BoutiqueBitmap9x9",
             "精品點陣體9×9"
@@ -3034,7 +3121,9 @@
     {
         "id": 676,
         "name": "Ctrl Ordn",
-        "alias": []
+        "alias": [
+            "尺规列序"
+        ]
     },
     {
         "id": 677,
@@ -3046,12 +3135,16 @@
     {
         "id": 678,
         "name": "Ctrl Joke",
-        "alias": []
+        "alias": [
+            "尺规滑稽"
+        ]
     },
     {
         "id": 679,
         "name": "Joke Antq",
-        "alias": []
+        "alias": [
+            "日漫复刻"
+        ]
     },
     {
         "id": 680,
