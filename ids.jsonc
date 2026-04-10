@@ -253,13 +253,6 @@
         ]
     },
     {
-        "id": 135,
-        "name": "句读黑体 UI",
-        "alias": [
-            "Judou Sans UI"
-        ]
-    },
-    {
         "id": 136,
         "name": "句读黑体",
         "alias": [
@@ -681,6 +674,53 @@
             "源流明體",
             "GenRyu Serif"
         ]
+    },
+    {
+        "id": 2116,
+        "name": "Vegur",
+        "alias": []
+    },
+    {
+        "id": 2117,
+        "name": "Aileron",
+        "alias": []
+    },
+    {
+        "id": 2118,
+        "name": "Route 159",
+        "alias": []
+    },
+    {
+        "id": 2119,
+        "name": "Nacelle",
+        "alias": []
+    },
+    {
+        "id": 2120,
+        "name": "きざし",
+        "alias": [
+            "Kizashi"
+        ]
+    },
+    {
+        "id": 2121,
+        "name": "F5.6",
+        "alias": []
+    },
+    {
+        "id": 2122,
+        "name": "Liberation Sans",
+        "alias": []
+    },
+    {
+        "id": 2123,
+        "name": "Liberation Serif",
+        "alias": []
+    },
+    {
+        "id": 2124,
+        "name": "Liberation Mono",
+        "alias": []
     },
     {
         "id": 214,
