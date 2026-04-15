@@ -723,6 +723,47 @@
         "alias": []
     },
     {
+        "id": 2125,
+        "name": "凉山极值实验黑体",
+        "alias": [
+            "NiepShaExtremum Sans"
+        ]
+    },
+    {
+        "id": 2126,
+        "name": "凉山极值实验手书",
+        "alias": [
+            "NiepShaExtremum Cursive"
+        ]
+    },
+    {
+        "id": 2127,
+        "name": "Inconsolata LGC",
+        "alias": []
+    },
+    {
+        "id": 2128,
+        "name": "卓特清雅体",
+        "alias": []
+    },
+    {
+        "id": 2129,
+        "name": "卓特悦动黑",
+        "alias": []
+    },
+    {
+        "id": 2130,
+        "name": "卓特自由体",
+        "alias": []
+    },
+    {
+        "id": 2131,
+        "name": "典迹悦动",
+        "alias": [
+            "Monu YueDong"
+        ]
+    },
+    {
         "id": 214,
         "name": "更纱黑体 UI",
         "alias": [
