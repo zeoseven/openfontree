@@ -764,10 +764,83 @@
         ]
     },
     {
+        "id": 2132,
+        "name": "Firjar",
+        "alias": []
+    },
+    {
+        "id": 2133,
+        "name": "Anek Latin",
+        "alias": []
+    },
+    {
+        "id": 2134,
+        "name": "x14y24pxHeadUpDaisy",
+        "alias": [
+            "ヘッドアップデイジー"
+        ]
+    },
+    {
+        "id": 2135,
+        "name": "x10y12pxDonguriDuel",
+        "alias": [
+            "どんぐりデュエル"
+        ]
+    },
+    {
+        "id": 2136,
+        "name": "x12y12pxMaruMinyaM",
+        "alias": [
+            "マルミーニャＭ"
+        ]
+    },
+    {
+        "id": 2137,
+        "name": "x12y16pxSolidLinker",
+        "alias": [
+            "ソリッドリンカー"
+        ]
+    },
+    {
+        "id": 2138,
+        "name": "x12y16pxLineLinker",
+        "alias": [
+            "ラインリンカー"
+        ]
+    },
+    {
+        "id": 2139,
+        "name": "x16y32pxGridGazer",
+        "alias": [
+            "グリッドゲイザー"
+        ]
+    },
+    {
         "id": 214,
         "name": "更纱黑体 UI",
         "alias": [
             "Sarasa UI"
+        ]
+    },
+    {
+        "id": 2140,
+        "name": "x12y20pxScanLine",
+        "alias": [
+            "スキャンライン"
+        ]
+    },
+    {
+        "id": 2141,
+        "name": "x14y20pxScoreDozer",
+        "alias": [
+            "スコアドーザー"
+        ]
+    },
+    {
+        "id": 2142,
+        "name": "x8y12pxTheStrongGamer",
+        "alias": [
+            "ザ・ストロングゲーマー"
         ]
     },
     {
