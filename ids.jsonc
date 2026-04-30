@@ -726,14 +726,14 @@
         "id": 2125,
         "name": "凉山极值实验黑体",
         "alias": [
-            "NiepShaExtremum Sans"
+            "NiepShaExtremum Sans, ꆃꎭꆈꌠꁱꂷꋊꍬ Sans"
         ]
     },
     {
         "id": 2126,
         "name": "凉山极值实验手书",
         "alias": [
-            "NiepShaExtremum Cursive"
+            "NiepShaExtremum Cursive, ꆃꎭꆈꌠꁱꂷꋊꍬ Cursive"
         ]
     },
     {
@@ -861,6 +861,21 @@
     {
         "id": 2146,
         "name": "Trmnl Cubic",
+        "alias": []
+    },
+    {
+        "id": 2147,
+        "name": "Raveo",
+        "alias": []
+    },
+    {
+        "id": 2148,
+        "name": "Hedvig Letters Sans",
+        "alias": []
+    },
+    {
+        "id": 2149,
+        "name": "Hedvig Letters Serif",
         "alias": []
     },
     {
@@ -2570,7 +2585,8 @@
         "id": 544,
         "name": "道源符体",
         "alias": [
-            "Daoist Sigil Source"
+            "Daoist Sigil Source",
+            "雨君鬼臣体"
         ]
     },
     {
@@ -5579,6 +5595,11 @@
     {
         "id": "es",
         "name": "Iosevka",
+        "alias": []
+    },
+    {
+        "id": "esa",
+        "name": "Iosevka Slab",
         "alias": []
     },
     {
