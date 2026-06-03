@@ -982,8 +982,25 @@
         "alias": []
     },
     {
+        "id": 2168,
+        "name": "秋叶圆体 16",
+        "alias": [
+            "QiuYeYuanTi 16"
+        ]
+    },
+    {
+        "id": 2169,
+        "name": "Stalinist One",
+        "alias": []
+    },
+    {
         "id": 217,
         "name": "CLFN 粗柳坊新 24x CN",
+        "alias": []
+    },
+    {
+        "id": 2170,
+        "name": "Otomanopee",
         "alias": []
     },
     {
@@ -3520,7 +3537,10 @@
     {
         "id": 7,
         "name": "朱雀仿宋",
-        "alias": []
+        "alias": [
+            "Zhuque Fangsong",
+            "朱雀宋朝"
+        ]
     },
     {
         "id": 70,
@@ -3987,6 +4007,7 @@
         "id": 815,
         "name": "Z 工坊像素黑体 12px",
         "alias": [
+            "Z Labs Pixel 12px",
             "Z Labs Bitmap 12px"
         ]
     },
