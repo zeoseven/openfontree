@@ -472,9 +472,9 @@
     },
     {
         "id": 184,
-        "name": "975 圆体",
+        "name": "霞鹜 975 圆体",
         "alias": [
-            "975 Maru"
+            "LXGW 975 Maru"
         ]
     },
     {
@@ -1001,6 +1001,26 @@
     {
         "id": 2170,
         "name": "Otomanopee",
+        "alias": []
+    },
+    {
+        "id": 2171,
+        "name": "Noto Sans Megamerged",
+        "alias": []
+    },
+    {
+        "id": 2172,
+        "name": "Noto Serif Megamerged",
+        "alias": []
+    },
+    {
+        "id": 2173,
+        "name": "宋骨黑体",
+        "alias": []
+    },
+    {
+        "id": 2174,
+        "name": "宋骨黑圆体",
         "alias": []
     },
     {
