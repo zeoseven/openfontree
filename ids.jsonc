@@ -474,14 +474,14 @@
         "id": 184,
         "name": "霞鹜 975 圆体",
         "alias": [
-            "LXGW 975 Maru"
+            "LXGW 975 Yuan"
         ]
     },
     {
         "id": 185,
         "name": "霞鹜 975 黑体",
         "alias": [
-            "LXGW 975 Gothic"
+            "LXGW 975 Hei"
         ]
     },
     {
@@ -726,14 +726,16 @@
         "id": 2125,
         "name": "凉山极值实验黑体",
         "alias": [
-            "NiepShaExtremum Sans, ꆃꎭꆈꌠꁱꂷꋊꍬ Sans"
+            "NiepShaExtremum Sans",
+            "ꆃꎭꆈꌠꁱꂷꋊꍬ Sans"
         ]
     },
     {
         "id": 2126,
         "name": "凉山极值实验手书",
         "alias": [
-            "NiepShaExtremum Cursive, ꆃꎭꆈꌠꁱꂷꋊꍬ Cursive"
+            "NiepShaExtremum Cursive",
+            "ꆃꎭꆈꌠꁱꂷꋊꍬ Cursive"
         ]
     },
     {
@@ -1024,8 +1026,92 @@
         "alias": []
     },
     {
+        "id": 2175,
+        "name": "Utopiensium",
+        "alias": []
+    },
+    {
+        "id": 2176,
+        "name": "x5y8pxNegaClip",
+        "alias": [
+            "ネガクリップ"
+        ]
+    },
+    {
+        "id": 2177,
+        "name": "x5y8pxNegaTape",
+        "alias": [
+            "ネガテープ"
+        ]
+    },
+    {
+        "id": 2178,
+        "name": "Free Sans",
+        "alias": []
+    },
+    {
+        "id": 2179,
+        "name": "Free Serif",
+        "alias": []
+    },
+    {
         "id": 218,
         "name": "CLFN 粗柳坊新 16x CN",
+        "alias": []
+    },
+    {
+        "id": 2180,
+        "name": "Free Mono",
+        "alias": []
+    },
+    {
+        "id": 2181,
+        "name": "STIX",
+        "alias": []
+    },
+    {
+        "id": 2182,
+        "name": "STIX Math",
+        "alias": []
+    },
+    {
+        "id": 2183,
+        "name": "XITS",
+        "alias": []
+    },
+    {
+        "id": 2184,
+        "name": "XITS Math",
+        "alias": []
+    },
+    {
+        "id": 2185,
+        "name": "也字工厂柳叶体",
+        "alias": []
+    },
+    {
+        "id": 2186,
+        "name": "金画字",
+        "alias": [
+            "金畫字",
+            "キンカクジ"
+        ]
+    },
+    {
+        "id": 2187,
+        "name": "Great Vibes",
+        "alias": []
+    },
+    {
+        "id": 2188,
+        "name": "火车 One",
+        "alias": [
+            "Train One"
+        ]
+    },
+    {
+        "id": 2189,
+        "name": "Love Light",
         "alias": []
     },
     {
@@ -1034,6 +1120,68 @@
         "alias": [
             "遊趣體",
             "Child Fun Sans"
+        ]
+    },
+    {
+        "id": 2190,
+        "name": "黑蔷薇",
+        "alias": [
+            "黒薔薇ゴシック"
+        ]
+    },
+    {
+        "id": 2191,
+        "name": "猫啃网烟波宋",
+        "alias": []
+    },
+    {
+        "id": 2192,
+        "name": "マキナス 4 (马奇纳斯体 4) Flat",
+        "alias": [
+            "Makinas 4 Flat"
+        ]
+    },
+    {
+        "id": 2193,
+        "name": "マキナス 4 (马奇纳斯体 4) Square",
+        "alias": [
+            "Makinas 4 Square"
+        ]
+    },
+    {
+        "id": 2194,
+        "name": "シンデレラ (灰姑娘)",
+        "alias": []
+    },
+    {
+        "id": 2195,
+        "name": "Big Bottom Cartoon",
+        "alias": []
+    },
+    {
+        "id": 2196,
+        "name": "猫啃网文明宋",
+        "alias": []
+    },
+    {
+        "id": 2197,
+        "name": "猫啃网扛重族 (黑)",
+        "alias": [
+            "Maoken Heavy Labourer"
+        ]
+    },
+    {
+        "id": 2198,
+        "name": "猫啃网扛重族 (宋)",
+        "alias": [
+            "Maoken Heavy Labourer"
+        ]
+    },
+    {
+        "id": 2199,
+        "name": "瞬きノ明朝 (瞬目明朝)",
+        "alias": [
+            "フリーフォント"
         ]
     },
     {
@@ -1052,9 +1200,115 @@
         ]
     },
     {
+        "id": 2200,
+        "name": "EvilSung 邪宋",
+        "alias": []
+    },
+    {
+        "id": 2201,
+        "name": "衡山毛筆フォント草書 (衡山毛笔草书)",
+        "alias": []
+    },
+    {
+        "id": 2202,
+        "name": "衡山毛筆フォント行書 (衡山毛笔行书)",
+        "alias": []
+    },
+    {
+        "id": 2203,
+        "name": "青柳衡山フォントT (青柳衡山字体 T)",
+        "alias": []
+    },
+    {
+        "id": 2204,
+        "name": "青柳隷書しも (青柳隶书)",
+        "alias": []
+    },
+    {
+        "id": 2205,
+        "name": "衡山毛筆フォント (衡山毛笔)",
+        "alias": []
+    },
+    {
+        "id": 2206,
+        "name": "青柳疎石フォント (青柳疏石体)",
+        "alias": []
+    },
+    {
+        "id": 2207,
+        "name": "郑庆科南北词宫谱宋体",
+        "alias": []
+    },
+    {
+        "id": 2208,
+        "name": "Imbue",
+        "alias": []
+    },
+    {
+        "id": 2209,
+        "name": "Adwaita Sans",
+        "alias": []
+    },
+    {
         "id": 221,
         "name": "礼品卉自由理想体",
         "alias": []
+    },
+    {
+        "id": 2210,
+        "name": "Adwaita Mono",
+        "alias": []
+    },
+    {
+        "id": 2211,
+        "name": "PT Sans",
+        "alias": []
+    },
+    {
+        "id": 2212,
+        "name": "PT Serif",
+        "alias": []
+    },
+    {
+        "id": 2213,
+        "name": "PT Root UI",
+        "alias": []
+    },
+    {
+        "id": 2214,
+        "name": "Oracular (镜原甲骨文)",
+        "alias": []
+    },
+    {
+        "id": 2215,
+        "name": "Trochut",
+        "alias": []
+    },
+    {
+        "id": 2216,
+        "name": "SAIBA-45",
+        "alias": []
+    },
+    {
+        "id": 2217,
+        "name": "Princess Sofia",
+        "alias": []
+    },
+    {
+        "id": 2218,
+        "name": "澳声通注音鼎楷",
+        "alias": [
+            "ToneOZ Zhuyin Kai",
+            "澳聲通注音鼎楷"
+        ]
+    },
+    {
+        "id": 2219,
+        "name": "澳声通拼音库楷",
+        "alias": [
+            "ToneOZ Pinyin Kai Traditional",
+            "澳聲通拼音庫楷"
+        ]
     },
     {
         "id": 222,
@@ -1062,8 +1316,73 @@
         "alias": []
     },
     {
+        "id": 2220,
+        "name": "なぎの (Nagino)",
+        "alias": []
+    },
+    {
+        "id": 2221,
+        "name": "UnifrakturCook",
+        "alias": []
+    },
+    {
+        "id": 2222,
+        "name": "Choso",
+        "alias": []
+    },
+    {
+        "id": 2223,
+        "name": "Black Han Sans",
+        "alias": []
+    },
+    {
+        "id": 2224,
+        "name": "普推黑体 (PUTUI)",
+        "alias": []
+    },
+    {
+        "id": 2225,
+        "name": "Felipa",
+        "alias": []
+    },
+    {
+        "id": 2226,
+        "name": "Kings",
+        "alias": []
+    },
+    {
+        "id": 2227,
+        "name": "Astloch",
+        "alias": []
+    },
+    {
+        "id": 2228,
+        "name": "日曆體 (日历体)",
+        "alias": []
+    },
+    {
+        "id": 2229,
+        "name": "Kode Mono",
+        "alias": []
+    },
+    {
         "id": 223,
         "name": "黄凯桦律师手写体",
+        "alias": []
+    },
+    {
+        "id": 2230,
+        "name": "Antic",
+        "alias": []
+    },
+    {
+        "id": 2231,
+        "name": "Antic Didone",
+        "alias": []
+    },
+    {
+        "id": 2232,
+        "name": "Antic Slab",
         "alias": []
     },
     {
@@ -1292,7 +1611,7 @@
     },
     {
         "id": 265,
-        "name": "站酷小薇体",
+        "name": "站酷小薇 LOGO 体",
         "alias": []
     },
     {
@@ -2097,8 +2416,10 @@
     },
     {
         "id": 416,
-        "name": "Plix 普力士",
-        "alias": []
+        "name": "Plix 普利世",
+        "alias": [
+            "普力士"
+        ]
     },
     {
         "id": 417,
@@ -3643,7 +3964,7 @@
     },
     {
         "id": 713,
-        "name": "Kiwi Maru キウイ丸 (猕猴桃丸)",
+        "name": "Kiwi Maru キウイ丸 (猕猴桃圆体)",
         "alias": []
     },
     {
