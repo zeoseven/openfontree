@@ -1812,11 +1812,188 @@
         "alias": []
     },
     {
+        "id": 2306,
+        "name": "典迹末境",
+        "alias": [
+            "Monu Last"
+        ]
+    },
+    {
+        "id": 2307,
+        "name": "Ctrl Kana Ital",
+        "alias": [
+            "尺规假名写意"
+        ]
+    },
+    {
+        "id": 2308,
+        "name": "Monu",
+        "alias": []
+    },
+    {
+        "id": 2309,
+        "name": "瀞ノグリッチ黒体 (瀞之故障黑体)",
+        "alias": []
+    },
+    {
+        "id": 2310,
+        "name": "瀞ノグリッチ明朝 (瀞之故障明朝)",
+        "alias": []
+    },
+    {
+        "id": 2311,
+        "name": "Accent Mono",
+        "alias": []
+    },
+    {
+        "id": 2312,
+        "name": "Metropolis",
+        "alias": []
+    },
+    {
+        "id": 2313,
+        "name": "Clarity City",
+        "alias": []
+    },
+    {
+        "id": 2314,
+        "name": "TYPETR-Bitcount",
+        "alias": []
+    },
+    {
+        "id": 2315,
+        "name": "Nova Cut",
+        "alias": []
+    },
+    {
+        "id": 2316,
+        "name": "Nova Flat",
+        "alias": []
+    },
+    {
+        "id": 2317,
+        "name": "Nova Mono",
+        "alias": []
+    },
+    {
+        "id": 2318,
+        "name": "Nova Oval",
+        "alias": []
+    },
+    {
+        "id": 2319,
+        "name": "Nova Round",
+        "alias": []
+    },
+    {
         "id": 232,
         "name": "Y 式笔书",
         "alias": [
             "Y 式筆書",
             "YshiPen-Shuti"
+        ]
+    },
+    {
+        "id": 2320,
+        "name": "Nova Script",
+        "alias": []
+    },
+    {
+        "id": 2321,
+        "name": "Nova Slim",
+        "alias": []
+    },
+    {
+        "id": 2322,
+        "name": "Nova Square",
+        "alias": []
+    },
+    {
+        "id": 2323,
+        "name": "Charito",
+        "alias": []
+    },
+    {
+        "id": 2324,
+        "name": "Fira Sans",
+        "alias": []
+    },
+    {
+        "id": 2325,
+        "name": "Fira Mono",
+        "alias": []
+    },
+    {
+        "id": 2326,
+        "name": "Melete",
+        "alias": []
+    },
+    {
+        "id": 2327,
+        "name": "Bruno Ace",
+        "alias": []
+    },
+    {
+        "id": 2328,
+        "name": "芝士奶盖乌龙宋",
+        "alias": [
+            "Cheese Foam Oolong Song"
+        ]
+    },
+    {
+        "id": 2329,
+        "name": "不寐仿宋",
+        "alias": [
+            "Insomnia FangSong"
+        ]
+    },
+    {
+        "id": 2330,
+        "name": "Asap Symbol",
+        "alias": []
+    },
+    {
+        "id": 2331,
+        "name": "繁梅黑体",
+        "alias": [
+            "繁梅黑體",
+            "Fanmei Hei"
+        ]
+    },
+    {
+        "id": 2332,
+        "name": "繁梅明体",
+        "alias": [
+            "繁梅明體",
+            "Fanmei Ming"
+        ]
+    },
+    {
+        "id": 2333,
+        "name": "SEKUYA",
+        "alias": []
+    },
+    {
+        "id": 2334,
+        "name": "Florida Vibes",
+        "alias": []
+    },
+    {
+        "id": 2335,
+        "name": "Nokyung",
+        "alias": []
+    },
+    {
+        "id": 2336,
+        "name": "x10y12pxDenkiChipHangul (전기칩 한글)",
+        "alias": []
+    },
+    {
+        "id": 2337,
+        "name": "辰芯像素体 10x12",
+        "alias": [
+            "辰芯像素體 10x12",
+            "Liora Chip 10x12"
         ]
     },
     {
