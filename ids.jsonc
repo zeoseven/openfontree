@@ -2317,6 +2317,23 @@
         "alias": []
     },
     {
+        "id": 2397,
+        "name": "Geologica",
+        "alias": []
+    },
+    {
+        "id": 2398,
+        "name": "Hahmlet",
+        "alias": []
+    },
+    {
+        "id": 2399,
+        "name": "源萃明朝",
+        "alias": [
+            "GenZui Serif"
+        ]
+    },
+    {
         "id": 24,
         "name": "霞鹜铭心宋",
         "alias": [
@@ -2328,6 +2345,46 @@
         "name": "香萃潮汐宋",
         "alias": [
             "Xiangcui Chaoxisong"
+        ]
+    },
+    {
+        "id": 2400,
+        "name": "源萃ゴシック (源萃哥特体)",
+        "alias": [
+            "GenZui Sans"
+        ]
+    },
+    {
+        "id": 2401,
+        "name": "汤宪滨宋",
+        "alias": []
+    },
+    {
+        "id": 2402,
+        "name": "Catrinity",
+        "alias": []
+    },
+    {
+        "id": 2403,
+        "name": "Alari Xuwasun Jurchen",
+        "alias": []
+    },
+    {
+        "id": 2404,
+        "name": "嗷呜碎瘾黑",
+        "alias": []
+    },
+    {
+        "id": 2405,
+        "name": "嗷呜碎黑体",
+        "alias": []
+    },
+    {
+        "id": 2406,
+        "name": "851 逸斜体",
+        "alias": [
+            "851イツシャ体",
+            "851 Yixie Slant"
         ]
     },
     {
