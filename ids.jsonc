@@ -2388,6 +2388,60 @@
         ]
     },
     {
+        "id": 2407,
+        "name": "Ribel Noise",
+        "alias": []
+    },
+    {
+        "id": 2408,
+        "name": "GLF-Cikutra",
+        "alias": []
+    },
+    {
+        "id": 2409,
+        "name": "GLF-Grafem",
+        "alias": []
+    },
+    {
+        "id": 2410,
+        "name": "GLF-Fonem",
+        "alias": []
+    },
+    {
+        "id": 2411,
+        "name": "TokiFic Initials",
+        "alias": []
+    },
+    {
+        "id": 2412,
+        "name": "Funever Sans Display",
+        "alias": []
+    },
+    {
+        "id": 2413,
+        "name": "Yuyu Mid",
+        "alias": []
+    },
+    {
+        "id": 2414,
+        "name": "Yuyu Short",
+        "alias": []
+    },
+    {
+        "id": 2415,
+        "name": "戏墨黑 SC",
+        "alias": [
+            "Xi Mo Hei SC"
+        ]
+    },
+    {
+        "id": 2416,
+        "name": "戏墨宋 SC",
+        "alias": [
+            "Xi Mo Song SC"
+        ]
+    },
+    {
         "id": 242,
         "name": "小可奶酪体",
         "alias": []
